@@ -3,7 +3,7 @@
 #### This file contains the documentation and commands related to the Module 7 Machine Learning Project
 
 ## Create Project
-Created a new repo in GitHub with the name 'datafun-06-EDA' 
+Created a new repo in GitHub with the name 'datafun-07-ml' 
 
 Added the default README.md 
 
