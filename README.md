@@ -2,6 +2,28 @@
 
 #### This file contains the documentation and commands related to the Module 7 Machine Learning Project
 
+## Create Project
+Created a new repo in GitHub with the name 'datafun-06-EDA' 
+
+Added the default README.md 
+
+Named the script "bukola_ml.ipynb"
+
+## Cloned project down to my machine
+Opened VS Code 
+
+Used file > open folder to access the folder where I want my project to reside
+
+Opened a new terminal (with powershell as default) 
+
+Used the 'git clone' command to clone the project to my machine
+
+```shell
+
+git clone site_URL
+
+```
+
 ## Instructions for Setting up Virtual Environment
 ``` shell
 python3 -m venv .venv
